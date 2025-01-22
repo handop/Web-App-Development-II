@@ -26,7 +26,8 @@ This web application was supposed to serve as a hub for music events and concert
 
 ![image](https://github.com/user-attachments/assets/c1a3a187-6d9f-492e-bc66-8461b30d08c6)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2bc512fb-8faf-4f47-bc78-99fd79ad4889)
+
 
 </p>
 
